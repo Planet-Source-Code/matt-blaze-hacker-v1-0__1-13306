@@ -1,0 +1,20 @@
+11
+<Mission Orders>
+
+The only way to disarm all three
+bombs at once is to reset 50
+switches on the computer console.
+
+A switch turns green once neutralised.
+
+To reset switches you must type in 
+the number displayed in two boxes as it 
+shows up.
+
+Reset all 50 switches and the bombs
+are disarmed.
+
+Note: Pressing 'enter' will blank the 
+the box where you type.
+
+Click to start >>

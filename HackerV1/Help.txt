@@ -1,0 +1,9 @@
+HackerV1.0 Help
+
+How to Play:
+
+After installation select HackerV1 from the Start Menu.  Read the Briefing and the Mission Orders to get the idea of what to do.
+
+When at the main screen you have to type in the number that gets displayed.  Random numbers will be displayed and using the number pad on the keyboard, quickly type them in before they disappear.  When you correctly type in a number you will reset a switch and it will turn green.
+
+To win you must reset all 50 switches before the timers reach zero.  Good Luck!

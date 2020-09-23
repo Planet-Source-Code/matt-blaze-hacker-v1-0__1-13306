@@ -1,0 +1,25 @@
+11
+<Mission Briefing>
+
+Three bombs have been planted inside 
+the MI6 Headquaters.  
+
+They are directly linked to a computer  terminal 
+1500 feet away from the building.
+
+The only way to disarm the bombs is by
+hacking your way into this computer 
+terminal.
+
+There is a tamper-proof device on the terminal 
+which cannot be avoided.
+
+Once you start disarming a countdown 
+will begin.
+
+If you fail to reset all 50 switches
+ the bomb will detonate.
+
+If the timers reach zero the bomb will detonate.
+
+Good Luck...<END>
